@@ -1,3 +1,3 @@
-# Stargate DAO contracts
+## Stargate DAO contracts
 
 
